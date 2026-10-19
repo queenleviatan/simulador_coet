@@ -2,7 +2,7 @@ SIMULADOR DE COCHETE
 
 Simulador educativo interactivo para visualizar de forma aproximada el lanzamiento de un cohete y experimentar con diferentes características de su diseño.
 
-cARACTERISTICAS:
+Caracteristicas:
 - Modificar el diámetro del cuerpo del cohete.
 - Ajustar la altura del cuerpo.
 - Añadir o quitar la ojiva (punta).
